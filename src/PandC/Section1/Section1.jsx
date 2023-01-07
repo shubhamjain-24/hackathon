@@ -1,6 +1,6 @@
 import React from "react";
 import "./Section1.css";
-import img1 from "../../Images/community.jpg";
+import img1 from "../../Images/pandc-imgnew.png";
 
 const Section1 = () => {
   return (
@@ -28,7 +28,7 @@ const Section1 = () => {
                 </span>
               </div>
               <div className="PandC-s1-gridDiv2-ButtonDiv">
-                <span class="material-symbols-outlined PandCButton">diversity_1</span>
+                {/* <span class="material-symbols-outlined PandCButton">diversity_1</span> */}
                 Join Now
               </div>
             </div>

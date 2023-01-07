@@ -12,7 +12,7 @@ const AboutUs = () => {
   return (
     <>
     <NavBar/>
-    <AU_Section1/>
+    {/* <AU_Section1/> */}
     <AU_Section2/>
     <AU_Section3/>
     {/* <AU_Section4/> */}

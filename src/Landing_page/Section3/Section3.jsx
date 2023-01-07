@@ -7,7 +7,7 @@ const Section3 = () => {
       <div className="s3-mainContaier">
         <div className="s3-headContainer">
           <div className="s3-heading">
-            Why you shoulf trust us? <br />
+            Why you should trust us? <br />
             Get Know about us
           </div>
         </div>

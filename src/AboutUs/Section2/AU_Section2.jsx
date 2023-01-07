@@ -10,7 +10,7 @@ const AU_Section2 = () => {
       <div className="AU_section2_gridContainerDiv">
         <div className="AU_section2_gridContainerDiv_text">
 
-        <p > <span style={{fontWeight:"bold"}}>Ease Up is a one-of-a-kind startup. &nbsp;</span> 
+        <p className='AU_section2_gridContainerDiv_text_Para'> <span style={{fontWeight:"bold"}}>Ease Up is a one-of-a-kind startup. &nbsp;</span> 
         
         Our mission at Ease Up is to provide a supportive and informative platform for individuals seeking mental health healing and self-improvement. We believe that mental health is just as important as physical health and that everyone deserves to live a happy, healthy life.
         <br />

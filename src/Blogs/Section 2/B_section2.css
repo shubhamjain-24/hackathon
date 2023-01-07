@@ -85,3 +85,27 @@
         margin-left: 0;
     }
 }
+@media only screen and (max-width: 630px){
+    .B_section2_gridDivImg{
+        width: 80%;
+    }
+    .B_section2_gridDiv{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .B_section2_gridContainer{
+        display: flex;
+        flex-direction: column;
+    }
+    .B_section2_gridDivDate{
+        font-size: 11px;
+    }
+    .B_section2_headText{
+        font-size: 16px;
+    }
+    .B_section2_headTextPara{
+        font-size: 14px;
+    }
+}

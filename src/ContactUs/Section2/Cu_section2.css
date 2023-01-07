@@ -177,3 +177,26 @@
         width: 100%;
     }
   }
+
+  @media only screen and (max-width: 521px){
+    .CU_section2_gridContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .CU_section2_gridContainer-div2{
+        width: 100%;
+    }
+    .CU_section2_gridContainer-div2-IPs1{
+        display: flex;
+        flex-direction: column;
+        /* width: 90%; */
+    }
+    .RESmargin{
+        margin-top: 20px;
+    }
+    .Input1{
+        width: 99%;
+    }
+  }

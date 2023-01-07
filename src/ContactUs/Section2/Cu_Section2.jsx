@@ -76,7 +76,7 @@ const Cu_Section2 = () => {
               {/* <div className="CU_section2_gridContainer-div2-text2"> */}
               <div className="CU_section2_gridContainer-div2-IPs1">
               <input type="text" id="fname" name="fname" placeholder="First Name" required className="Input1"/>
-              <input type="text" id="fname" name="fname" placeholder="Last Name " className="Input1" required/>
+              <input type="text" id="fname" name="fname" placeholder="Last Name " className="Input1 RESmargin" required/>
               </div>
               <input type="email" id="fname" name="fname" placeholder="Email address" required className="Input2"/>
               <textarea name="textarea"  cols="56" rows="7" placeholder="Your message here" className="textarea"></textarea>

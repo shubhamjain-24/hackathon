@@ -54,3 +54,22 @@
     text-align: center;
     width: 90%;
 }
+
+@media only screen and (max-width: 1100px){
+    .s3-gridContainer{
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width: 700px){
+    .s3-gridContainer{
+        margin-left: 60px;
+    }
+}
+@media only screen and (max-width: 470px){
+    .s3-gridContainer{
+        margin-left: 40px;
+    }
+    .s3-heading{
+        font-size: 32px;
+    }
+}

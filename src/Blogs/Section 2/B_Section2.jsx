@@ -28,7 +28,7 @@ const B_Section2 = () => {
               <p className="B_section2_headText">
               Social Anxiety in Teens: Signs & Symptoms
               </p>
-              <p>
+              <p className="B_section2_headTextPara">
               While it’s something that can affect anyone, at any age, social anxiety disorder in teens is something we need to talk about....
               </p>
               <div className="B_section2_gridDivRead">
@@ -55,7 +55,7 @@ const B_Section2 = () => {
               <p className="B_section2_headText">
               Schizophrenia: Symptoms, Causes, and Treatment
               </p>
-              <p>
+              <p className="B_section2_headTextPara">
               Schizophrenia is an often misunderstood chronic brain disorder....
               </p>
               <div className="B_section2_gridDivRead">
@@ -82,7 +82,7 @@ const B_Section2 = () => {
               <p className="B_section2_headText">
               What is the Mental Health Impact of Losing Your Sense of Smell and Taste from COVID-19?
               </p>
-              <p>
+              <p className="B_section2_headTextPara">
               Our five senses — sight, hearing, touch, smell, and taste — connect us with the world. From the sight of a distant sunset over emerald waters...
               </p>
               <div className="B_section2_gridDivRead">
@@ -109,7 +109,7 @@ const B_Section2 = () => {
               <p className="B_section2_headText">
               why people are scared to reveal about their mental health
               </p>
-              <p>
+              <p className="B_section2_headTextPara">
               It is completely understandable to be scared of sharing personal information about your mental health with others...
               </p>
               <div className="B_section2_gridDivRead">

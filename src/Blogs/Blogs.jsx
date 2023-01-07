@@ -8,7 +8,7 @@ const Blogs = () => {
   return (
     <>
     <NavBar/>
-    <B_Section1/>
+    {/* <B_Section1/> */}
     <B_Section2/>
     <Footer/>
     </>

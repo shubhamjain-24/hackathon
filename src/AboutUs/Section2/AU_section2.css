@@ -42,3 +42,42 @@ font-family: 'Roboto', sans-serif;
         /* background-color: rebeccapurple; */
     }
 }
+@media only screen and (max-width: 900px){
+    .AU_section2_gridContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 100px;
+    }
+    .AU_section2_gridContainerDiv{
+        /* background-color: rebeccapurple; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0px;
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .AU_section2_gridContainerDiv{
+        /* background-color: rgb(43, 226, 192); */
+        width: 100%;
+        margin-left: -90px;
+    }
+    .AU_section2_gridContainerDiv_text{
+        margin-left: 0px;
+    }
+
+}
+@media only screen and (max-width: 500px){
+    
+    .AU_section2_gridContainerDiv_text_Para{
+        font-size: 13px;
+    }
+    .AU_section2_gridContainer{
+        /* background-color: rebeccapurple; */
+        margin-left: 70px;
+        width: 80%;
+    }
+}
