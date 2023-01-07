@@ -1,5 +1,5 @@
 .s3-mainContaier{
-    margin-top: 90px;
+    margin-top: 110px;
     /* position: relative; */
 }
 .s3-headContainer{
@@ -16,7 +16,7 @@
 }
 .s3-gridContainer{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     /* background-color: antiquewhite; */
     margin-top: 90px;
     margin-left: 140px;
@@ -31,7 +31,7 @@
     flex-direction: column;
 }
 .icon{
-    font-size: 64px;
+    font-size: 400%;
     margin-top: 10px;
 }
 .s3-gridDiv1-text{

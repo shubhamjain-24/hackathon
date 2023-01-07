@@ -26,7 +26,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon1} alt="" />
+            <img  className='s5-icon'  src={icon1} alt="" />
             
           </div>
           <div className="s5-gridDiv1-text">
@@ -38,7 +38,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon2} alt="" />
+            <img className='s5-icon' src={icon2} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -49,7 +49,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon3} alt="" />
+            <img className='s5-icon' src={icon3} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -60,7 +60,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon4} alt="" />
+            <img className='s5-icon' src={icon4} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -71,7 +71,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon5} alt="" />
+            <img className='s5-icon' src={icon5} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -82,7 +82,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon6} alt="" />
+            <img className='s5-icon'  src={icon6} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -93,7 +93,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon7} alt="" />
+            <img className='s5-icon' src={icon7} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">
@@ -104,7 +104,7 @@ const Section5 = () => {
         <div className="s5-gridDiv1">
           <div className="s5-gridDiv1-icon">
             {/* <span class="material-symbols-outlined icons5">home</span> */}
-            <img  src={icon8} alt="" />
+            <img className='s5-icon' src={icon8} alt="" />
           </div>
           <div className="s5-gridDiv1-text">
               <div className="s5-gridDiv1-Text1">

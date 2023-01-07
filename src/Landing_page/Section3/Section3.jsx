@@ -31,7 +31,7 @@ const Section3 = () => {
             </div>
             <div className="s3-gridDiv1-text">
                 <div className="s3-gridDiv1-Text1">
-                    Private and Secure
+                    Secure
                 </div>
                 <div className="s3-gridDiv1-Text2">
                 All of your information is secure with us, and all of your discussions are encrypted.
